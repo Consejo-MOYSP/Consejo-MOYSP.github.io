@@ -24,6 +24,10 @@ Syntax highlighted code block
 ## Header 5
 ### Header 6
 
+http://github.com - automatic!
+[GitHub](http://github.com) 
+
+
 - Bulleted
 - List
 
