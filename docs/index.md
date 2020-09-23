@@ -24,9 +24,6 @@ Syntax highlighted code block
 ## Header 5
 ### Header 6
 
-http://github.com - automatic!
-[GitHub](http://github.com) 
-
 <h1>foo</h1>
 <h2>foo</h2>
 <h3>foo</h3>
